@@ -1,0 +1,171 @@
+/* LayerSlider SR Skin */
+
+
+.ls-florida {
+	background: none;
+}
+
+.ls-florida .ls-playvideo {
+	width: 50px;
+	height: 50px;
+	margin-left: -25px;
+	margin-top: -25px;
+}
+
+.ls-florida .ls-playvideo,
+.ls-florida .ls-nav-sides,
+.ls-florida .ls-bottom-slidebuttons a,
+.ls-florida .ls-nav-prev,
+.ls-florida .ls-nav-next,
+.ls-florida .ls-nav-start,
+.ls-florida .ls-nav-stop {
+	background-image: url(skin.png);	
+}
+
+.ls-florida .ls-playvideo {
+	background-position: -300px -150px;
+}
+
+.ls-florida .ls-playvideo:hover,
+.ls-florida .ls-vpcontainer:hover .ls-playvideo {
+	background-position: -375px -150px;
+}
+
+.ls-florida .ls-nav-prev {
+	background-position: -8px 0px;
+}
+
+
+
+.ls-florida .ls-nav-next {
+	background-position: -150px 0px;
+}
+
+
+.ls-florida .ls-nav-start {
+	background-position: -300px 0px;
+}
+
+.ls-florida .ls-nav-start:hover,
+.ls-florida .ls-nav-start-active {
+	background-position: -300px -75px;
+}
+
+.ls-florida .ls-nav-stop {
+	background-position: -450px 0px;
+}
+
+.ls-florida .ls-nav-stop:hover,
+.ls-florida .ls-nav-stop-active {
+	background-position: -450px -75px;
+}
+
+.ls-florida .ls-bottom-slidebuttons a {
+	background-position: -375px 0px;
+}
+
+.ls-florida .ls-bottom-slidebuttons a.ls-nav-active,
+.ls-florida .ls-bottom-slidebuttons a:hover {
+	background-position: -375px -74px;
+}
+
+.ls-florida .ls-nav-sideleft {
+	background-position: -150px -150px;	
+}
+
+.ls-florida .ls-nav-sideright {
+	background-position: -225px -150px;	
+}
+
+
+
+.ls-florida .ls-nav-prev,
+.ls-florida .ls-nav-next {
+	width: 90px;
+	height: 90px;
+	z-index: 10000;
+	bottom: 50%;
+	margin-bottom: -40px;
+	position: absolute;
+}
+
+.ls-florida .ls-nav-prev {
+	left: 0px;	
+}
+
+.ls-florida .ls-nav-next {
+	right: 0px;	
+}
+
+.ls-florida .ls-bottom-slidebuttons,
+.ls-florida .ls-bottom-slidebuttons a,
+.ls-florida .ls-nav-start,
+.ls-florida .ls-nav-stop,
+.ls-florida .ls-nav-sides {
+	height: 20px;
+}
+
+.ls-florida .ls-bottom-slidebuttons,
+.ls-florida .ls-bottom-slidebuttons a,
+.ls-florida .ls-nav-start,
+.ls-florida .ls-nav-stop,
+.ls-florida .ls-nav-sides {
+	display: inline-block;
+}
+
+.ls-florida .ls-bottom-slidebuttons,
+.ls-florida .ls-nav-start,
+.ls-florida .ls-nav-stop,
+.ls-florida .ls-nav-sides {
+	top: -30px;
+}
+
+.ls-florida .ls-nav-start,
+.ls-florida .ls-nav-stop {
+	width: 25px;
+}
+
+.ls-florida .ls-bottom-slidebuttons a {
+	width: 33px;
+}
+
+.ls-florida .ls-nav-sides {
+	width: 0px;	
+}
+
+
+
+.ls-florida .ls-thumbnail-hover {
+	bottom: 30px;
+	padding: 2px;
+	margin-left: 1px;
+}
+
+.ls-florida .ls-thumbnail-hover-bg {
+	background: #eee;
+}
+
+.ls-florida .ls-thumbnail-hover span {
+	border: 5px solid #eee;
+	margin-left: -5px;
+}
+
+
+
+.ls-florida .ls-thumbnail {
+	top: 10px;
+}
+
+.ls-florida .ls-thumbnail-inner {
+	padding: 2px;
+	margin-left: -2px;
+	background: #fff;
+}
+
+.ls-florida .ls-thumbnail-slide a {
+	margin-right: 2px;
+}
+
+.ls-florida .ls-nothumb {
+	background: #eee;
+}

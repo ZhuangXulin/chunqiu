@@ -1,0 +1,141 @@
+
+/* #Color Skins (Florida wp theme)
+================================================== */
+
+
+/* == Menu Colors
+------------------ */
+
+/* menu link color + background color */
+#nav a { color:; background-color:;}
+/* menu current item border bottom color */
+#nav > li.current:after {background:;}
+/* menu top link hover color + background color */
+#nav li:hover > a { background-color:; color:; }
+/* menu submenu link hover color + background color */
+#nav ul li a:hover, #nav li.current ul li a:hover, .nav-wrap2 #nav ul li a:hover, .nav-wrap2.darknavi #nav ul li a:hover, #nav ul li.current > a , #nav ul li:hover > a { color:; background-color:; }
+
+
+/* == Icon Box Colors
+---------------------- */
+
+/* iconbox 0 icon color  */
+.icon-box i { color:; background-color:;}
+/* iconbox 0 icon color  */
+.icon-box:hover i { color:; background-color:;}
+/* iconbox 1 icon color + icon background color */
+.icon-box1 i { color:; background-color:;}
+/* iconbox 1 icon color + icon background color */
+.icon-box1:hover i { color:; background-color:;}
+/* iconbox 2 icon color  */
+.icon-box2 i { color:;}
+/* iconbox 2 icon color  */
+.icon-box2:hover i { color:;}
+/* iconbox 3 icon color  */
+.icon-box3 i { color:;}
+/* iconbox 3 icon color  */
+.icon-box3:hover i { color:;}
+/* iconbox 4 icon color + icon background color */
+.icon-box4 i { color:; background-color:;}
+/* iconbox 4 icon color + icon background color */
+.icon-box4:hover i { color:; background-color:;}
+/* iconbox 5 icon color + icon background color */
+.icon-box5 i { color:; background-color:;}
+/* iconbox 5 icon color + icon background color */
+.icon-box5:hover i { color:; background-color:;}
+/* iconbox 6 icon color + icon background color */
+.icon-box6 i { color:; background-color:;}
+/* iconbox 6 icon color + icon background color */
+.icon-box6:hover i { color:; background-color:;}
+/* iconbox 7 icon color + icon background color */
+.icon-box7 i { color:; background-color:;}
+/* iconbox 7 icon color + icon background color */
+.icon-box7:hover i { color:; background-color:;}
+
+
+
+/* == Portfolio Colors
+----------------------- */
+
+/* portfolio filter links color + border color */
+nav.primary .portfolioFilters a { color:; border-color:; }
+/* portfolio filter links hover color + border color */
+nav.primary .portfolioFilters a:hover {  color:; border-color:; }
+/* portfolio filter links color selected + border color */
+nav.primary .portfolioFilters a.selected, nav.primary ul li a:active {  color:; border-color:; }
+
+/* portfolio item zoom link color */
+.zoomex2 a { color:;}
+/* portfolio item zoom link border color */
+.zoomex2 a i { border-color:;}
+/* portfolio item zoom link hover color + border color */
+.zoomex2 a:hover i { color:; border-color:; }
+
+
+
+/* == Learn more link Colors
+----------------------------- */
+
+/* learn more link color */
+a.magicmore { color:;}
+/* learn more hover link color */
+a.magicmore:hover { color:;} 
+
+
+
+/* == Our Process Icon Colors
+------------------------------ */
+
+/* our process icon color + border color += background color */
+.our-process-item i { color:; border-color:; background-color:; } 
+/* our process icon hover color + border color += background color */
+.our-process-item:hover i { color:; border-color:; background-color:; } 
+
+
+/* == Our Tean Image Border Color
+---------------------------------- */
+
+/* our team hover image border color */
+.our-team:hover img { border-color:;}
+
+
+/* == Our Clients Icon Hover Color
+----------------------------------- */
+
+/* our clients icon hover Color + border color */
+.our-clients-wrap .jcarousel-next:hover, .our-clients-wrap .jcarousel-next:active, .our-clients-wrap .jcarousel-prev:hover, .our-clients-wrap .jcarousel-prev:active { border-color:; color:; }
+
+
+/* == Accordion Title Color
+---------------------------- */
+
+/* caccordion title active and hover color */
+.acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover { color:; }
+
+
+/* == Subtitle3 Border Bottom Color
+------------------------------------ */
+
+/* subtitle3 border bottom color */
+h6.h-sub-content { border-bottom-color:;}
+
+
+/* == Blog Posts Link Color
+---------------------------- */
+
+/* latest from blog link hover color */
+.blog-line:hover h4 a { color:; }
+/* latest from blog category link color */
+.blog-line p.blog-cat a { color:; }
+/* blog post link hover color */
+.blog-post a:hover { color:; }
+
+
+/* == Flex Slider Next & Previous Button Hover Background Color
+---------------------------------------------------------------- */
+
+/* flex slider next & previous button hover background color */
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover { background-color:;}
+
+
+/* -------- end ----------- */
